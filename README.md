@@ -7,7 +7,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
-    Personal Introduction
 </head>
 
 <body class="bg-gray-100 text-gray-800 font-sans">
@@ -25,7 +24,8 @@
         </div>
         <div class="bg-white p-6 rounded-md shadow-md">
             <h2 class="text-xl font-bold mb-4">Other Experiences</h2>
-            <p>In China, I've served as a saxophonist and singer in two bands, Summer crew and Bad Princess. We've held multiple专场 performances in cities like Hangzhou, Beijing, and Tianjin. All the members of the two bands are from Berklee College of Music, and we all have a good sense of teamwork and rich experience.</p>
+            <p>In China, I've served as a saxophonist and singer in two bands, Summer crew and Bad Princess. We've held multiple performances in cities like Hangzhou, Beijing, and Tianjin. All the members of the two bands are from Berklee College of Music, and we all have a good sense of teamwork and rich experience.</p>
+            <img src="https://img.picui.cn/free/2025/04/18/6801984937eca.jpg">
         </div>
     </div>
 </body>
